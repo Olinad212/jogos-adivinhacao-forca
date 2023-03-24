@@ -3,3 +3,7 @@ banana
 laranja
 melancia
 tangerina
+abacate
+manga
+jenipapo
+jaboticaba
